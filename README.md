@@ -52,15 +52,11 @@ si aparece
 esta bien  
 despues en terminal linux te va a pedir que ingreses el idioma del teclado
 si no te lo pide va a usar el que estas usando
-despues en terminal linux ejecuta
-~~~bash
-sudo apt install xrdp -y && sudo service xrdp start
-~~~
-y cada vez que enciendas la compu vas se va a desactivar xrdp. 
-para volver a activar ejecuta:  
+despues en terminal linux ejecuta y tambien cada vez que enciendas la compu vas se va a desactivar xrdp.  
 ~~~bash
 sudo service xrdp start
-~~~  
+~~~
+
 despues en windows  
 ~~~powershell
 mstsc.exe
