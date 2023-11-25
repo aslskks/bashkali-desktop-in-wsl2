@@ -65,4 +65,5 @@ pon la ip de el kali si no te la sabes ejecuta en kali
 ~~~bash
 hostname -I
 ~~~  
-pon esa ip en la conexion remota si te aparece algo de guardar conexion pon que si, si quieres guardar la conexion no de lo contrario y ya estas adentro  
+pon esa ip en la conexion remota si te aparece algo de guardar conexion pon que si, si quieres guardar la conexion no de lo contrario y ya estas adentro    
+&copy; 2023 aslskks
